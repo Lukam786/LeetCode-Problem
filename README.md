@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0136-single-number) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0867-transpose-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/1572-matrix-diagonal-sum) |
 ## Matrix
@@ -29,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Lukam786/LeetCode-Problem/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lukam786/LeetCode-Problem/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/Lukam786/LeetCode-Problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Lukam786/LeetCode-Problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
