@@ -9,12 +9,13 @@ class Solution {
             return 1 / myPow(x, -(n + 1)) / x;
         }
 
-        double half = myPow(x, n / 2);
+        double halfpower = myPow(x, n / 2);
+        double halfpowersq = halfpower * halfpower;
 
-        if (n % 2 == 0) {
-            return half * half;
+        if (n % 2 != 0) {
+            halfpowersq = x * halfpowersq;
         }
 
-        return x * half * half;
+        return halfpowersq;
     }
 }
