@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Lukam786/LeetCode-Problem/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Lukam786/LeetCode-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Lukam786/LeetCode-Problem/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/Lukam786/LeetCode-Problem/tree/master/0709-to-lower-case) |
 | [1768-merge-strings-alternately](https://github.com/Lukam786/LeetCode-Problem/tree/master/1768-merge-strings-alternately) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
 ## Ternary Search
 |  |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Lukam786/LeetCode-Problem/tree/master/2574-left-and-right-sum-differences) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
