@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Lukam786/LeetCode-Problem/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Lukam786/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Lukam786/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Lukam786/LeetCode-Problem/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0047-permutations-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Lukam786/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0867-transpose-matrix) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Lukam786/LeetCode-Problem/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Lukam786/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Lukam786/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Lukam786/LeetCode-Problem/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Lukam786/LeetCode-Problem/tree/master/0051-n-queens) |
@@ -206,6 +210,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Lukam786/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Lukam786/LeetCode-Problem/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0052-n-queens-ii) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Lukam786/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
