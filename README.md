@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lukam786/LeetCode-Problem/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Lukam786/LeetCode-Problem/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Lukam786/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lukam786/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Lukam786/LeetCode-Problem/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Lukam786/LeetCode-Problem/tree/master/0231-power-of-two) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Lukam786/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Lukam786/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lukam786/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0509-fibonacci-number) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Lukam786/LeetCode-Problem/tree/master/0037-sudoku-solver) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Lukam786/LeetCode-Problem/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
