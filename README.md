@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Lukam786/LeetCode-Problem/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Lukam786/LeetCode-Problem/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Lukam786/LeetCode-Problem/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Lukam786/LeetCode-Problem/tree/master/0062-unique-paths) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
