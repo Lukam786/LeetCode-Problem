@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Lukam786/LeetCode-Problem/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Lukam786/LeetCode-Problem/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0128-longest-consecutive-sequence) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Lukam786/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
+| [0079-word-search](https://github.com/Lukam786/LeetCode-Problem/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/1572-matrix-diagonal-sum) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Lukam786/LeetCode-Problem/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Lukam786/LeetCode-Problem/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Lukam786/LeetCode-Problem/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Lukam786/LeetCode-Problem/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Lukam786/LeetCode-Problem/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Lukam786/LeetCode-Problem/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/Lukam786/LeetCode-Problem/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0090-subsets-ii) |
 ## Memoization
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0845-longest-mountain-in-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Lukam786/LeetCode-Problem/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
