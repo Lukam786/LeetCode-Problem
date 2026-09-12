@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/1572-matrix-diagonal-sum) |
 | [1773-count-items-matching-a-rule](https://github.com/Lukam786/LeetCode-Problem/tree/master/1773-count-items-matching-a-rule) |
 | [1991-find-the-middle-index-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1991-find-the-middle-index-in-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Lukam786/LeetCode-Problem/tree/master/2574-left-and-right-sum-differences) |
 ## Matrix
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Ternary Search
 |  |
 | ------- |
