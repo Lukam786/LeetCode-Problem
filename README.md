@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Lukam786/LeetCode-Problem/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/Lukam786/LeetCode-Problem/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Lukam786/LeetCode-Problem/tree/master/0443-string-compression) |
 | [0845-longest-mountain-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Lukam786/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0509-fibonacci-number) |
 | [0845-longest-mountain-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0845-longest-mountain-in-array) |
 ## Stack
