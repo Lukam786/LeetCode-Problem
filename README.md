@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Lukam786/LeetCode-Problem/tree/master/0443-string-compression) |
 | [0709-to-lower-case](https://github.com/Lukam786/LeetCode-Problem/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/Lukam786/LeetCode-Problem/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/Lukam786/LeetCode-Problem/tree/master/1773-count-items-matching-a-rule) |
 ## Binary Search
