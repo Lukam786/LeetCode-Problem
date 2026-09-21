@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0409-longest-palindrome) |
 | [0443-string-compression](https://github.com/Lukam786/LeetCode-Problem/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/Lukam786/LeetCode-Problem/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Lukam786/LeetCode-Problem/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Lukam786/LeetCode-Problem/tree/master/1108-defanging-an-ip-address) |
