@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Lukam786/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Lukam786/LeetCode-Problem/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
