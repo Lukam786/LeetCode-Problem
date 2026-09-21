@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0485-max-consecutive-ones) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lukam786/LeetCode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lukam786/LeetCode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0392-is-subsequence) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Lukam786/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Lukam786/LeetCode-Problem/tree/master/0371-sum-of-two-integers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Lukam786/LeetCode-Problem/tree/master/0779-k-th-symbol-in-grammar) |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Lukam786/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
 | ------- |
@@ -403,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
