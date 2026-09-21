@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lukam786/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Lukam786/LeetCode-Problem/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Lukam786/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Lukam786/LeetCode-Problem/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Lukam786/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Lukam786/LeetCode-Problem/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Lukam786/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lukam786/LeetCode-Problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Lukam786/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Lukam786/LeetCode-Problem/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Lukam786/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Lukam786/LeetCode-Problem/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Lukam786/LeetCode-Problem/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0125-valid-palindrome) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Lukam786/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Lukam786/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
