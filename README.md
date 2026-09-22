@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Lukam786/LeetCode-Problem/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Lukam786/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Lukam786/LeetCode-Problem/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Lukam786/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lukam786/LeetCode-Problem/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Lukam786/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Lukam786/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Lukam786/LeetCode-Problem/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Lukam786/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Lukam786/LeetCode-Problem/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Lukam786/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0567-permutation-in-string) |
