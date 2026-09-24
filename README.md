@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/Lukam786/LeetCode-Problem/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Lukam786/LeetCode-Problem/tree/master/0739-daily-temperatures) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Lukam786/LeetCode-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Lukam786/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Lukam786/LeetCode-Problem/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lukam786/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/Lukam786/LeetCode-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Lukam786/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Lukam786/LeetCode-Problem/tree/master/0901-online-stock-span) |
 ## Sorting
