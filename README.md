@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Lukam786/LeetCode-Problem/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Lukam786/LeetCode-Problem/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Lukam786/LeetCode-Problem/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/Lukam786/LeetCode-Problem/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Lukam786/LeetCode-Problem/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lukam786/LeetCode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Lukam786/LeetCode-Problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/Lukam786/LeetCode-Problem/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Lukam786/LeetCode-Problem/tree/master/0905-sort-array-by-parity) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Lukam786/LeetCode-Problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Lukam786/LeetCode-Problem/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Lukam786/LeetCode-Problem/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Lukam786/LeetCode-Problem/tree/master/0901-online-stock-span) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lukam786/LeetCode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
