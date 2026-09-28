@@ -1,50 +1,37 @@
 class Solution {
     public String decodeString(String s) {
-
-        Stack<Integer> numStack = new Stack<>();
-        Stack<String> strStack = new Stack<>();
-
-        int num = 0;
-        String curr = "";
-
-        for (int i = 0; i < s.length(); i++) {
-
-            char ch = s.charAt(i);
-
-            // Number
-            if (Character.isDigit(ch)) {
-                num = num * 10 + (ch - '0');
+        Stack<Character> st=new Stack<>();
+        for(int i=0; i<s.length(); i++){
+            char ch=s.charAt(i);
+            if(ch!=']'){
+             st.push(ch);
             }
+            else{
+                StringBuilder sb=new StringBuilder();
+             while(st.size()>0 && st.peek()!='['){
+                sb.insert(0,st.pop());
+             }
+             String toRepeat=sb.toString();
+             st.pop();
 
-            // Opening bracket
-            else if (ch == '[') {
-                numStack.push(num);
-                strStack.push(curr);
-
-                num = 0;
-                curr = "";
-            }
-
-            // Closing bracket
-            else if (ch == ']') {
-                int repeat = numStack.pop();
-                String previous = strStack.pop();
-
-                String temp = "";
-
-                for (int j = 0; j < repeat; j++) {
-                    temp += curr;
+             sb=new StringBuilder();
+             while(st.size()>0 && st.peek()>='0'&& st.peek()<='9'){
+                sb.insert(0,st.pop());
+             }
+             int count=Integer.parseInt(sb.toString());
+             while(count-->0){
+                for(int j=0; j<toRepeat.length(); j++){
+                    char c=toRepeat.charAt(j);
+                    st.push(c);
                 }
-
-                curr = previous + temp;
-            }
-
-            // Character
-            else {
-                curr += ch;
+             }
             }
         }
-
-        return curr;
+        StringBuilder ans=new StringBuilder();
+        while(st.size()>0){
+            ans.append(st.pop());
+        }
+        ans.reverse();
+        return ans.toString();
     }
 }
