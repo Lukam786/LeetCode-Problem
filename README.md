@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Lukam786/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Lukam786/LeetCode-Problem/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lukam786/LeetCode-Problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Lukam786/LeetCode-Problem/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Lukam786/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Lukam786/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Lukam786/LeetCode-Problem/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Lukam786/LeetCode-Problem/tree/master/0290-word-pattern) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lukam786/LeetCode-Problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Lukam786/LeetCode-Problem/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Lukam786/LeetCode-Problem/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Lukam786/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0234-palindrome-linked-list) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Lukam786/LeetCode-Problem/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Lukam786/LeetCode-Problem/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Lukam786/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0394-decode-string) |
