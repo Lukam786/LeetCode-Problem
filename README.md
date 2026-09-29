@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lukam786/LeetCode-Problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Lukam786/LeetCode-Problem/tree/master/0162-find-peak-element) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Lukam786/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Lukam786/LeetCode-Problem/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Lukam786/LeetCode-Problem/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lukam786/LeetCode-Problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Lukam786/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Lukam786/LeetCode-Problem/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Lukam786/LeetCode-Problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Lukam786/LeetCode-Problem/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Lukam786/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
