@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lukam786/LeetCode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Lukam786/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0283-move-zeroes) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Lukam786/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Algorithm X
 |  |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Lukam786/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
@@ -507,4 +511,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
