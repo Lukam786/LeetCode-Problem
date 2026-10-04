@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
+| [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lukam786/LeetCode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Lukam786/LeetCode-Problem/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Lukam786/LeetCode-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0409-longest-palindrome) |
+| [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -552,4 +555,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Lukam786/LeetCode-Problem/tree/master/0069-sqrtx) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
