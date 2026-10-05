@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0455-assign-cookies](https://github.com/Lukam786/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Lukam786/LeetCode-Problem/tree/master/0443-string-compression) |
+| [0455-assign-cookies](https://github.com/Lukam786/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0567-permutation-in-string) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Lukam786/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lukam786/LeetCode-Problem/tree/master/0646-maximum-length-of-pair-chain) |
 | [0905-sort-array-by-parity](https://github.com/Lukam786/LeetCode-Problem/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
+| [0455-assign-cookies](https://github.com/Lukam786/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lukam786/LeetCode-Problem/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lukam786/LeetCode-Problem/tree/master/1710-maximum-units-on-a-truck) |
@@ -578,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lukam786/LeetCode-Problem/tree/master/0646-maximum-length-of-pair-chain) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Lukam786/LeetCode-Problem/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
