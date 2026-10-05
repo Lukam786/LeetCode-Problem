@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
+| [1200-minimum-absolute-difference](https://github.com/Lukam786/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lukam786/LeetCode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
+| [1200-minimum-absolute-difference](https://github.com/Lukam786/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lukam786/LeetCode-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
