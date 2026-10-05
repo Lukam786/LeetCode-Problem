@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Lukam786/LeetCode-Problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Lukam786/LeetCode-Problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1710-maximum-units-on-a-truck](https://github.com/Lukam786/LeetCode-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [1773-count-items-matching-a-rule](https://github.com/Lukam786/LeetCode-Problem/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Lukam786/LeetCode-Problem/tree/master/1816-truncate-sentence) |
 | [1991-find-the-middle-index-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1991-find-the-middle-index-in-array) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/Lukam786/LeetCode-Problem/tree/master/1710-maximum-units-on-a-truck) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lukam786/LeetCode-Problem/tree/master/0646-maximum-length-of-pair-chain) |
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
+| [1710-maximum-units-on-a-truck](https://github.com/Lukam786/LeetCode-Problem/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
