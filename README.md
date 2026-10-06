@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Lukam786/LeetCode-Problem/tree/master/2574-left-and-right-sum-differences) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Matrix
 |  |
 | ------- |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Lukam786/LeetCode-Problem/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lukam786/LeetCode-Problem/tree/master/0646-maximum-length-of-pair-chain) |
 | [0845-longest-mountain-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0845-longest-mountain-in-array) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Stack
 |  |
 | ------- |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Lukam786/LeetCode-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Lukam786/LeetCode-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Lukam786/LeetCode-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Lukam786/LeetCode-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
