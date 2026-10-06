@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Lukam786/LeetCode-Problem/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lukam786/LeetCode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Lukam786/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Lukam786/LeetCode-Problem/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Lukam786/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/Lukam786/LeetCode-Problem/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0227-basic-calculator-ii) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lukam786/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Lukam786/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Lukam786/LeetCode-Problem/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Lukam786/LeetCode-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0409-longest-palindrome) |
