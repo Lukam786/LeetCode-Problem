@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Lukam786/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Lukam786/LeetCode-Problem/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Lukam786/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lukam786/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lukam786/LeetCode-Problem/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Lukam786/LeetCode-Problem/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Lukam786/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lukam786/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 ## Linked List
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Lukam786/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lukam786/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Lukam786/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Lukam786/LeetCode-Problem/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
