@@ -528,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Lukam786/LeetCode-Problem/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -624,4 +625,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Lukam786/LeetCode-Problem/tree/master/0881-boats-to-save-people) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
