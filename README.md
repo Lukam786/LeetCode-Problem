@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Lukam786/LeetCode-Problem/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Lukam786/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Lukam786/LeetCode-Problem/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Lukam786/LeetCode-Problem/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Lukam786/LeetCode-Problem/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Lukam786/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Lukam786/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Lukam786/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Lukam786/LeetCode-Problem/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Lukam786/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0179-largest-number) |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Lukam786/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Lukam786/LeetCode-Problem/tree/master/0455-assign-cookies) |
 ## Timsort
 |  |
@@ -708,4 +712,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Lukam786/LeetCode-Problem/tree/master/0341-flatten-nested-list-iterator) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Lukam786/LeetCode-Problem/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
