@@ -10,9 +10,7 @@ class Solution {
                 if(strs[i].charAt(j)!=strs[i+1].charAt(j)){
                     break;
                 }
-                if(j==minLen){
-                    break;
-                }
+                
                 j++;
             }
             minLen=Math.min(minLen,j);
