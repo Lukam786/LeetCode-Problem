@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Lukam786/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lukam786/LeetCode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Lukam786/LeetCode-Problem/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Lukam786/LeetCode-Problem/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Lukam786/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Lukam786/LeetCode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
