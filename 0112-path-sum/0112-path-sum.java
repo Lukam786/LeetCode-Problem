@@ -16,36 +16,17 @@
 
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        ArrayList<Integer> path = new ArrayList<>();
-
-        return checkPathSum(root, path, targetSum);
-    }
-
-    public boolean checkPathSum(TreeNode root, ArrayList<Integer> path,
-                                int targetSum) {
         if (root == null) {
             return false;
         }
 
-        path.add(root.val);
-
         if (root.left == null && root.right == null) {
-            int sum = 0;
-
-            for (int i = 0; i < path.size(); i++) {
-                sum += path.get(i);
-            }
-
-            if (sum == targetSum) {
-                return true;
-            }
+            return targetSum == root.val;
         }
 
-        boolean left = checkPathSum(root.left, path, targetSum);
-        boolean right = checkPathSum(root.right, path, targetSum);
+        int remaining = targetSum - root.val;
 
-        path.remove(path.size() - 1);
-
-        return left || right;
+        return hasPathSum(root.left, remaining)
+            || hasPathSum(root.right, remaining);
     }
 }
