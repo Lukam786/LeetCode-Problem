@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lukam786/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0932-beautiful-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Lukam786/LeetCode-Problem/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Lukam786/LeetCode-Problem/tree/master/0948-bag-of-tokens) |
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
+| [1382-balance-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1382-balance-a-binary-search-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lukam786/LeetCode-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Lukam786/LeetCode-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1382-balance-a-binary-search-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -705,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -738,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -757,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1382-balance-a-binary-search-tree) |
 ## Interactive
 |  |
 | ------- |
