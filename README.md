@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Lukam786/LeetCode-Problem/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Lukam786/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Lukam786/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Lukam786/LeetCode-Problem/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Lukam786/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Lukam786/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Lukam786/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Lukam786/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lukam786/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Lukam786/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Lukam786/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Lukam786/LeetCode-Problem/tree/master/0085-maximal-rectangle) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Lukam786/LeetCode-Problem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Lukam786/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lukam786/LeetCode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
