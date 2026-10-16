@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Lukam786/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Lukam786/LeetCode-Problem/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Lukam786/LeetCode-Problem/tree/master/0242-valid-anagram) |
@@ -633,14 +634,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -815,4 +819,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Lukam786/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0214-shortest-palindrome) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
