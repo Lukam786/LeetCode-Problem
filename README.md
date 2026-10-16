@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lukam786/LeetCode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Lukam786/LeetCode-Problem/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0015-3sum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lukam786/LeetCode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Lukam786/LeetCode-Problem/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Lukam786/LeetCode-Problem/tree/master/0069-sqrtx) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Lukam786/LeetCode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0148-sort-list) |
