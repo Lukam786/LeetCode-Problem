@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Lukam786/LeetCode-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2233-maximum-product-after-k-increments](https://github.com/Lukam786/LeetCode-Problem/tree/master/2233-maximum-product-after-k-increments) |
 | [2270-number-of-ways-to-split-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Lukam786/LeetCode-Problem/tree/master/2574-left-and-right-sum-differences) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Lukam786/LeetCode-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Lukam786/LeetCode-Problem/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2233-maximum-product-after-k-increments](https://github.com/Lukam786/LeetCode-Problem/tree/master/2233-maximum-product-after-k-increments) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 ## Heap (Priority Queue)
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lukam786/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Lukam786/LeetCode-Problem/tree/master/1046-last-stone-weight) |
+| [2233-maximum-product-after-k-increments](https://github.com/Lukam786/LeetCode-Problem/tree/master/2233-maximum-product-after-k-increments) |
 ## Merge Sort
 |  |
 | ------- |
