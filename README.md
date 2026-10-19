@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Lukam786/LeetCode-Problem/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Lukam786/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lukam786/LeetCode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Lukam786/LeetCode-Problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0867-transpose-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Lukam786/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -430,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/Lukam786/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lukam786/LeetCode-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -525,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Lukam786/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Lukam786/LeetCode-Problem/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2233-maximum-product-after-k-increments](https://github.com/Lukam786/LeetCode-Problem/tree/master/2233-maximum-product-after-k-increments) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Lukam786/LeetCode-Problem/tree/master/2336-smallest-number-in-infinite-set) |
 ## Merge Sort
