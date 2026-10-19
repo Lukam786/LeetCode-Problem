@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0932-beautiful-array) |
 | [0941-valid-mountain-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0941-valid-mountain-array) |
 | [0948-bag-of-tokens](https://github.com/Lukam786/LeetCode-Problem/tree/master/0948-bag-of-tokens) |
+| [0973-k-closest-points-to-origin](https://github.com/Lukam786/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0556-next-greater-element-iii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Lukam786/LeetCode-Problem/tree/master/0779-k-th-symbol-in-grammar) |
 | [0932-beautiful-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Lukam786/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lukam786/LeetCode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Lukam786/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
 | [0932-beautiful-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Lukam786/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Lukam786/LeetCode-Problem/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/Lukam786/LeetCode-Problem/tree/master/0948-bag-of-tokens) |
+| [0973-k-closest-points-to-origin](https://github.com/Lukam786/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/Lukam786/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lukam786/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Lukam786/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Lukam786/LeetCode-Problem/tree/master/1046-last-stone-weight) |
 | [2233-maximum-product-after-k-increments](https://github.com/Lukam786/LeetCode-Problem/tree/master/2233-maximum-product-after-k-increments) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Lukam786/LeetCode-Problem/tree/master/2336-smallest-number-in-infinite-set) |
@@ -876,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Lukam786/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Lukam786/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 ## Manacher
 |  |
 | ------- |
@@ -903,4 +909,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Lukam786/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Lukam786/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Lukam786/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
