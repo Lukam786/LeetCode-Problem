@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/Lukam786/LeetCode-Problem/tree/master/2233-maximum-product-after-k-increments) |
 | [2270-number-of-ways-to-split-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Lukam786/LeetCode-Problem/tree/master/2574-left-and-right-sum-differences) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Lukam786/LeetCode-Problem/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
 ## Matrix
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Lukam786/LeetCode-Problem/tree/master/2336-smallest-number-in-infinite-set) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Lukam786/LeetCode-Problem/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
 |  |
 | ------- |
