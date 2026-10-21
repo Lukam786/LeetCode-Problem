@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Lukam786/LeetCode-Problem/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Lukam786/LeetCode-Problem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Lukam786/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Lukam786/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Lukam786/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Lukam786/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Lukam786/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Lukam786/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Lukam786/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Lukam786/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Lukam786/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Lukam786/LeetCode-Problem/tree/master/0217-contains-duplicate) |
@@ -559,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Lukam786/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Lukam786/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
@@ -937,5 +942,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Lukam786/LeetCode-Problem/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
