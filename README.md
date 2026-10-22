@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/Lukam786/LeetCode-Problem/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/Lukam786/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/Lukam786/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1382-balance-a-binary-search-tree) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lukam786/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1382-balance-a-binary-search-tree) |
@@ -826,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -860,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lukam786/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1382-balance-a-binary-search-tree) |
