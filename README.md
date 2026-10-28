@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0128-longest-consecutive-sequence) |
+| [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 ## Sliding Window
 |  |
 | ------- |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [0938-range-sum-of-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -846,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -990,6 +993,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [0997-find-the-town-judge](https://github.com/Lukam786/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Lukam786/LeetCode-Problem/tree/master/1791-find-center-of-star-graph) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
