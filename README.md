@@ -639,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Lukam786/LeetCode-Problem/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Lukam786/LeetCode-Problem/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Lukam786/LeetCode-Problem/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Lukam786/LeetCode-Problem/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 ## Sliding Window
@@ -686,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Lukam786/LeetCode-Problem/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/Lukam786/LeetCode-Problem/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Lukam786/LeetCode-Problem/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Lukam786/LeetCode-Problem/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/0617-merge-two-binary-trees) |
+| [0684-redundant-connection](https://github.com/Lukam786/LeetCode-Problem/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Lukam786/LeetCode-Problem/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
@@ -1016,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Lukam786/LeetCode-Problem/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Lukam786/LeetCode-Problem/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Lukam786/LeetCode-Problem/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Lukam786/LeetCode-Problem/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Lukam786/LeetCode-Problem/tree/master/0841-keys-and-rooms) |
