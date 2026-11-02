@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Lukam786/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Lukam786/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0126-word-ladder-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Lukam786/LeetCode-Problem/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Lukam786/LeetCode-Problem/tree/master/0138-copy-list-with-random-pointer) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Lukam786/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Lukam786/LeetCode-Problem/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/Lukam786/LeetCode-Problem/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0179-largest-number) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Lukam786/LeetCode-Problem/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0113-path-sum-ii) |
+| [0126-word-ladder-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0126-word-ladder-ii) |
 | [0257-binary-tree-paths](https://github.com/Lukam786/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/Lukam786/LeetCode-Problem/tree/master/0797-all-paths-from-source-to-target) |
 ## Memoization
@@ -861,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0112-path-sum) |
+| [0126-word-ladder-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/Lukam786/LeetCode-Problem/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Lukam786/LeetCode-Problem/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Lukam786/LeetCode-Problem/tree/master/0200-number-of-islands) |
@@ -1040,4 +1044,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Lukam786/LeetCode-Problem/tree/master/0797-all-paths-from-source-to-target) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
