@@ -571,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Lukam786/LeetCode-Problem/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lukam786/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/Lukam786/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Lukam786/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Lukam786/LeetCode-Problem/tree/master/1046-last-stone-weight) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/Lukam786/LeetCode-Problem/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Lukam786/LeetCode-Problem/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Lukam786/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Lukam786/LeetCode-Problem/tree/master/0797-all-paths-from-source-to-target) |
@@ -875,6 +877,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/0617-merge-two-binary-trees) |
 | [0684-redundant-connection](https://github.com/Lukam786/LeetCode-Problem/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Lukam786/LeetCode-Problem/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/Lukam786/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Lukam786/LeetCode-Problem/tree/master/0797-all-paths-from-source-to-target) |
@@ -1027,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Lukam786/LeetCode-Problem/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Lukam786/LeetCode-Problem/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Lukam786/LeetCode-Problem/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/Lukam786/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Lukam786/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Lukam786/LeetCode-Problem/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Lukam786/LeetCode-Problem/tree/master/0841-keys-and-rooms) |
@@ -1048,4 +1052,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0126-word-ladder-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Lukam786/LeetCode-Problem/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Lukam786/LeetCode-Problem/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
