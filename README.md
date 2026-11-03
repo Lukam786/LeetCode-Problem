@@ -719,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Lukam786/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Linked List
 |  |
 | ------- |
@@ -1058,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Lukam786/LeetCode-Problem/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/Lukam786/LeetCode-Problem/tree/master/1791-find-center-of-star-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lukam786/LeetCode-Problem/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Lukam786/LeetCode-Problem/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Graph Coloring
 |  |
 | ------- |
