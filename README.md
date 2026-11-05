@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Lukam786/LeetCode-Problem/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Lukam786/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
+| [1202-smallest-string-with-swaps](https://github.com/Lukam786/LeetCode-Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lukam786/LeetCode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Lukam786/LeetCode-Problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Lukam786/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
+| [1202-smallest-string-with-swaps](https://github.com/Lukam786/LeetCode-Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Lukam786/LeetCode-Problem/tree/master/0990-satisfiability-of-equality-equations) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Lukam786/LeetCode-Problem/tree/master/1108-defanging-an-ip-address) |
+| [1202-smallest-string-with-swaps](https://github.com/Lukam786/LeetCode-Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Lukam786/LeetCode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Lukam786/LeetCode-Problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/Lukam786/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
+| [1202-smallest-string-with-swaps](https://github.com/Lukam786/LeetCode-Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -671,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/Lukam786/LeetCode-Problem/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Lukam786/LeetCode-Problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Lukam786/LeetCode-Problem/tree/master/0990-satisfiability-of-equality-equations) |
+| [1202-smallest-string-with-swaps](https://github.com/Lukam786/LeetCode-Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Lukam786/LeetCode-Problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Lukam786/LeetCode-Problem/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1631-path-with-minimum-effort](https://github.com/Lukam786/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
@@ -734,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Lukam786/LeetCode-Problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1202-smallest-string-with-swaps](https://github.com/Lukam786/LeetCode-Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Lukam786/LeetCode-Problem/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Lukam786/LeetCode-Problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1382-balance-a-binary-search-tree) |
@@ -922,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/Lukam786/LeetCode-Problem/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Lukam786/LeetCode-Problem/tree/master/0994-rotting-oranges) |
+| [1202-smallest-string-with-swaps](https://github.com/Lukam786/LeetCode-Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Lukam786/LeetCode-Problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Lukam786/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
