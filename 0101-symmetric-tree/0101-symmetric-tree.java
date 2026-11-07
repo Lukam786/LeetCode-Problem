@@ -14,23 +14,26 @@
  * }
  */
 class Solution {
-    public boolean mirror(TreeNode left,TreeNode right){
-        if(left==null && right==null){
+    public static boolean dfs(TreeNode r1, TreeNode r2){
+        if(r1==null&&r2==null){
             return true;
         }
-        if(left==null || right==null){
+        if(r1==null||r2==null){
             return false;
         }
-        if(left.val!=right.val){
+        if(r1.val!=r2.val){
             return false;
         }
-        return mirror(left.left,right.right)&& mirror(left.right,right.left);
+        boolean call1=dfs(r1.left,r2.right);
+        if(call1==false)return false;
+        boolean call2=dfs(r1.right,r2.left);
+        return call2;
     }
     public boolean isSymmetric(TreeNode root) {
         if(root==null){
             return true;
-         
         }
-         return  mirror(root.left,root.right);
+        return dfs(root.left,root.right);
+        
     }
 }
