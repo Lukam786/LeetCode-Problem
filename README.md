@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Lukam786/LeetCode-Problem/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Lukam786/LeetCode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0566-reshape-the-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lukam786/LeetCode-Problem/tree/master/0646-maximum-length-of-pair-chain) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Lukam786/LeetCode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Lukam786/LeetCode-Problem/tree/master/0721-accounts-merge) |
 | [0771-jewels-and-stones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Lukam786/LeetCode-Problem/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Lukam786/LeetCode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Lukam786/LeetCode-Problem/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1991-find-the-middle-index-in-array) |
