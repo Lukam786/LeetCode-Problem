@@ -14,25 +14,19 @@
  * }
  */
 class Solution {
-TreeNode prev=null;
-int ans=Integer.MAX_VALUE;
+    int prev=-1;
+    int min=Integer.MAX_VALUE;
     public int getMinimumDifference(TreeNode root) {
         if(root==null){
-            return Integer.MAX_VALUE;
+            return min;
         }
-        if(root.left!=null){
-            int leftmin=getMinimumDifference(root.left);
-             leftmin=Math.min(ans,leftmin);
+        getMinimumDifference(root.left);
+        if(prev!=-1){
+             min=Math.min(min, root.val-prev);
         }
-        if(prev!=null){
-            ans=Math.min(ans,root.val-prev.val);
-        }
-        prev=root;
-    
-    if(root.right!=null){
-        int rightmin=getMinimumDifference(root.right);
-        rightmin=Math.min(ans,rightmin);
+        prev=root.val;
+        getMinimumDifference(root.right);
+        return min;
+        
     }
-    return ans;
-}
 }
