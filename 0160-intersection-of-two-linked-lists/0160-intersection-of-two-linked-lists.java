@@ -10,30 +10,38 @@
  * }
  */
 public class Solution {
-    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-
-        if (headA == null || headB == null) {
+    public ListNode findstartingpointofcircle( ListNode head){
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+            if( slow ==fast){
+                break;
+            }
+        }
+        if(fast==null||fast.next==null){
             return null;
         }
-
-        ListNode slow = headA;
-        ListNode fast = headB;
-
-        while (slow != fast) {
-
-            if (slow == null) {
-                slow = headB;
-            } else {
-                slow = slow.next;
-            }
-
-            if (fast == null) {
-                fast = headA;
-            } else {
-                fast = fast.next;
-            }
+        slow=head;
+        while(fast!=slow){
+            slow=slow.next;
+            fast=fast.next;
         }
-
         return slow;
+    }
+    public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
+        if(headA==null||headB==null){
+            return null;
+        }
+        ListNode temp=headA;
+        while(temp.next!=null){
+            temp=temp.next;
+        }
+        temp.next=headB;
+        ListNode ans=findstartingpointofcircle(headA);
+        temp.next=null;
+        return ans;
+        
     }
 }
