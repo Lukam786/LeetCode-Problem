@@ -23,5 +23,6 @@ class Solution {
         root.left=r;
         root.right=l;
         return root;
+        
     }
 }
