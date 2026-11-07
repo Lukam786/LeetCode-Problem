@@ -1,37 +1,52 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
+
         List<Integer> ans = new ArrayList<>();
-        int n=matrix.length;
-        int m=matrix[0].length;
-        int sr=0, sc=0 , er=n-1, ec=m-1;
-        while(sr<=er && sc<=ec){
-            int row=sr;
-            for(int col=sc; col<=ec; col++){
+
+        int n = matrix.length;
+        int m = matrix[0].length;
+
+        int sr = 0, sc = 0, er = n - 1, ec = m - 1;
+
+        while (sr <= er && sc <= ec) {
+
+            int row = sr;
+
+            // Top side;
+            for (int col = sc; col <= ec; col++) {
                 ans.add(matrix[row][col]);
             }
             sr++;
-            int col=ec;
-            for(row=sr; row<=er; row++){
-             ans.add(matrix[row][col]);
+
+            // Right side;
+            int col = ec;
+
+            for (int row2 = sr; row2 <= er; row2++) {
+                ans.add(matrix[row2][col]);
             }
             ec--;
-            row=er;
-            if(sr<=er){
-           for( col=ec; col>=sc; col--){
-                ans.add(matrix[row][col]);
+
+            // Bottom side;
+            row = er;
+
+            if (sr <= er) {
+                for (int col2 = ec; col2 >= sc; col2--) {
+                    ans.add(matrix[row][col2]);
+                }
+                er--;
             }
-            er--;
-            }
-            if(sc<=ec){
-                 col=sc;
-                for( row=er; row>=sr; row--){
-                    ans.add(matrix[row][col]);
+
+            // Left side;
+            col = sc;
+
+            if (sc <= ec) {
+                for (int row2 = er; row2 >= sr; row2--) {
+                    ans.add(matrix[row2][col]);
                 }
                 sc++;
             }
-           
         }
+
         return ans;
-        
     }
 }
