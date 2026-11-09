@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Lukam786/LeetCode-Problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Lukam786/LeetCode-Problem/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/Lukam786/LeetCode-Problem/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0556-next-greater-element-iii) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Lukam786/LeetCode-Problem/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Lukam786/LeetCode-Problem/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lukam786/LeetCode-Problem/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/Lukam786/LeetCode-Problem/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
@@ -979,6 +981,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Lukam786/LeetCode-Problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Lukam786/LeetCode-Problem/tree/master/0279-perfect-squares) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lukam786/LeetCode-Problem/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Lukam786/LeetCode-Problem/tree/master/0547-number-of-provinces) |
@@ -1251,4 +1254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0959-regions-cut-by-slashes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0959-regions-cut-by-slashes) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Lukam786/LeetCode-Problem/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Lukam786/LeetCode-Problem/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
