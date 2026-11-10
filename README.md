@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Lukam786/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Lukam786/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Lukam786/LeetCode-Problem/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Lukam786/LeetCode-Problem/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Lukam786/LeetCode-Problem/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Lukam786/LeetCode-Problem/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/Lukam786/LeetCode-Problem/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
@@ -911,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lukam786/LeetCode-Problem/tree/master/0646-maximum-length-of-pair-chain) |
 ## Quicksort
 |  |
