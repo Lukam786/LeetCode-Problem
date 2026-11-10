@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Lukam786/LeetCode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/Lukam786/LeetCode-Problem/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/Lukam786/LeetCode-Problem/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Lukam786/LeetCode-Problem/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0959-regions-cut-by-slashes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0959-regions-cut-by-slashes) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Lukam786/LeetCode-Problem/tree/master/0709-to-lower-case) |
 | [0721-accounts-merge](https://github.com/Lukam786/LeetCode-Problem/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/Lukam786/LeetCode-Problem/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Lukam786/LeetCode-Problem/tree/master/0844-backspace-string-compare) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Lukam786/LeetCode-Problem/tree/master/0990-satisfiability-of-equality-equations) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/Lukam786/LeetCode-Problem/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/Lukam786/LeetCode-Problem/tree/master/0844-backspace-string-compare) |
 | [0845-longest-mountain-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Lukam786/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Lukam786/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lukam786/LeetCode-Problem/tree/master/0646-maximum-length-of-pair-chain) |
+| [0763-partition-labels](https://github.com/Lukam786/LeetCode-Problem/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Lukam786/LeetCode-Problem/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Lukam786/LeetCode-Problem/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Lukam786/LeetCode-Problem/tree/master/0948-bag-of-tokens) |
