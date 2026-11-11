@@ -1,48 +1,32 @@
-
 class Solution {
-
-    public void dfs(char[][] grid, int row, int col) {
-
-        // Boundary condition
-        if (row < 0 || col < 0 ||
-            row >= grid.length || col >= grid[0].length ||
-            grid[row][col] == '0') {
-            return;
+    int n=0;
+    int m=0;
+    public void dfs(char[][] grid,int i, int j){
+            if(i<0|| i>=n|| j<0|| j>=m){
+                return;
+            }
+            if(grid[i][j]=='0'|| grid[i][j]=='2'){
+                return;
+            }
+            grid[i][j]='2';
+             dfs(grid,i-1,j);
+             dfs(grid,i,j+1);
+             dfs(grid,i+1,j);
+             dfs(grid,i,j-1);
         }
-
-        // Mark visited
-        grid[row][col] = '0';
-
-        // Up
-        dfs(grid, row - 1, col);
-
-        // Down
-        dfs(grid, row + 1, col);
-
-        // Left
-        dfs(grid, row, col - 1);
-
-        // Right
-        dfs(grid, row, col + 1);
-    }
-
     public int numIslands(char[][] grid) {
-
-        int count = 0;
-
-        for (int i = 0; i < grid.length; i++) {
-
-            for (int j = 0; j < grid[0].length; j++) {
-
-                if (grid[i][j] == '1') {
-
+        n=grid.length; 
+        m=grid[0].length;
+        int count=0;
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(grid[i][j]=='1'){
+                    dfs(grid,i,j);
                     count++;
-
-                    dfs(grid, i, j);
                 }
             }
         }
-
+        
         return count;
     }
 }
