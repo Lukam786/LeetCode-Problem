@@ -1,44 +1,33 @@
-
 class Solution {
-
-    public int dfs(int[][] grid, int row, int col) {
-
-        // Boundary condition
-        if (row < 0 || col < 0 ||
-            row >= grid.length || col >= grid[0].length ||
-            grid[row][col] == 0) {
-
+    int n=0;
+    int m=0;
+    public int dfs(int[][] grid,int i, int j){
+        if(i<0||i>=n|| j<0||j>=m){
             return 0;
         }
+        if(grid[i][j]==0|| grid[i][j]==2){
+            return 0;
+        }
+        grid[i][j]=2;
+      int up=  dfs(grid,i-1,j);
+        int right=dfs(grid,i,j+1);
+       int left= dfs(grid,i,j-1);
+        int down=dfs(grid,i+1,j);
 
-        // Mark visited
-        grid[row][col] = 0;
-
-        int up = dfs(grid, row - 1, col);
-        int down = dfs(grid, row + 1, col);
-        int left = dfs(grid, row, col - 1);
-        int right = dfs(grid, row, col + 1);
-
-        return 1 + up + down + left + right;
+        return 1+up+right+left+down;
     }
-
     public int maxAreaOfIsland(int[][] grid) {
-
-        int maxArea = 0;
-
-        for (int i = 0; i < grid.length; i++) {
-
-            for (int j = 0; j < grid[0].length; j++) {
-
-                if (grid[i][j] == 1) {
-
-                    int area = dfs(grid, i, j);
-
-                    maxArea = Math.max(maxArea, area);
+        n=grid.length;
+        m=grid[0].length;
+        int max=0;
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(grid[i][j]==1){
+                  int area=  dfs(grid,i,j);
+                  max=Math.max(max,area);
                 }
             }
         }
-
-        return maxArea;
+        return max;
     }
 }
