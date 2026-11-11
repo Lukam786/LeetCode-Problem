@@ -1,55 +1,40 @@
 class Solution {
-
-    static boolean checkUsingBfs(int source, int graph[][], int color[]) {
-
-        Queue<Integer> q = new LinkedList<>();
-        q.add(source);
-        color[source] = 0;
-
-        while (q.isEmpty() == false) {
-
-            int curr = q.remove();
-            int currColor = color[curr];
-
-            for (int conn : graph[curr]) {
-
-                if (color[conn] == -1) {
-                    // if conn is not colored
-                    color[conn] = 1 - currColor;
-                    q.add(conn);
-                } else {
-                    // already colored
-                    if (currColor == color[conn]) {
+    public boolean checkUsingBfs(int[][] graph,int curr,int col[]){
+        Queue<Integer> q=new LinkedList<>();
+        q.add(curr);
+        col[curr]=0;
+        while(!q.isEmpty()){
+            int src=q.remove();
+            int currColor=col[src];
+            for(int neighbour:graph[src]){
+                if(col[neighbour]==-1){
+                    col[neighbour]=1-currColor;
+                    q.add(neighbour);
+                }
+                else{
+                    if(currColor==col[neighbour]){
                         return false;
                     }
                 }
             }
+            
         }
-
         return true;
     }
-
     public boolean isBipartite(int[][] graph) {
-
-        int n = graph.length;
-        int color[] = new int[n];
-
-        for (int i = 0; i < n; i++) {
-            color[i] = -1;
+        int n=graph.length;
+        int col[]=new int[n];
+        for(int i=0; i<n; i++){
+            col[i]=-1;
         }
-
-        for (int i = 0; i < n; i++) {
-
-            if (color[i] == -1) {
-
-                boolean result = checkUsingBfs(i, graph, color);
-
-                if (result == false) {
+        for(int i=0; i<n; i++){
+            if(col[i]==-1){
+                boolean result=checkUsingBfs(graph,i,col);
+                if(result==false){
                     return false;
                 }
             }
         }
-
         return true;
     }
 }
