@@ -1,32 +1,38 @@
 class Solution {
-    public  boolean dfs(int src,boolean vis[], List<List<Integer>> adj, Set<Integer> topoSort){
-        if(vis[src]==true){
-            if(topoSort.contains(src)) return false;
-            else return true;
-        }
-        vis[src]=true;
-
-        for(int nbr:adj.get(src)){
-            boolean cycle=dfs(nbr,vis,adj,topoSort);
-            if(cycle==true) return true;
-        }
-        topoSort.add(src);
-        return false;
-    }
     public boolean canFinish(int numCourses, int[][] prerequisites) {
+        int indegree[]=new int[numCourses];
         List<List<Integer>> adj=new ArrayList<>();
-        for(int i=0; i<numCourses; i++) adj.add(new ArrayList<>());
-        for(int[] edge: prerequisites){
-            adj.get(edge[0]).add(edge[1]);
+        for(int i=0; i<numCourses; i++){
+            adj.add(new ArrayList<>());
         }
-         Set<Integer> topoSort=new LinkedHashSet<>();
-        boolean[] vis= new boolean[numCourses];
-        for(int src=0; src<numCourses; src++){
-            if(vis[src]==false){
-                boolean cycle=dfs(src,vis,adj,topoSort);
-                if(cycle==true) return false;
+        for(int i=0; i<prerequisites.length; i++){
+            int a=prerequisites[i][0];
+            int b=prerequisites[i][1];
+             adj.get(b).add(a);
+             indegree[a]++;
+        }
+        Queue<Integer> q=new LinkedList<>();
+        for(int i=0; i<indegree.length; i++){
+            if(indegree[i]==0){
+                q.add(i);
             }
         }
-        return true;
+        ArrayList<Integer> ans=new ArrayList<>();
+        while(!q.isEmpty()){
+            int curr=q.remove();
+            ans.add(curr);
+            for(int neighbour: adj.get(curr)){
+                indegree[neighbour]--;
+                if(indegree[neighbour]==0){
+                    q.add(neighbour);
+                }
+            }
+        }
+        if(ans.size()==numCourses){
+            return true;
+        }
+        else{
+            return false;
+        }
     }
 }
