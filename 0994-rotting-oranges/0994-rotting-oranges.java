@@ -1,39 +1,48 @@
 class Solution {
-    static class Pair{
-        int r,c,t;
-        Pair(int r,int c, int t){
-            this.r=r;
-            this.c=c;
-            this.t=t;
+    static class Triplet{
+        int row;
+        int col;
+        int time;
+        Triplet(int row,int col, int time){
+            this.row=row;
+            this.col=col;
+            this.time=time;
         }
     }
     public int orangesRotting(int[][] grid) {
-        Queue<Pair> q=new ArrayDeque<>();
-        int fresh=0,maxTime=0;
-        for(int r=0; r<grid.length; r++){
-           for(int c=0; c<grid[0].length; c++){
-            if(grid[r][c]==2) q.add(new Pair(r,c,0));
-            else if(grid[r][c]==1) fresh++;
-           }
+        int fresh=0;
+        int maxTime=0;
+        Queue<Triplet> q=new LinkedList<>();
+        for(int row=0; row<grid.length; row++){
+            for(int col=0; col<grid[0].length; col++){
+               if(grid[row][col]==2){
+                q.add(new Triplet(row,col,0));
+               }
+               else if(grid[row][col]==1){
+                fresh++;
+               }
+            }
         }
-        int[] dr={-1,1,0,0};
-        int[] dc={0,0,-1,1};
-
-        while(q.size()>0){
-            Pair pair =q.remove();
-
-            for(int d=0; d<dr.length; d++){
-                int r=pair.r+dr[d];
-                int c=pair.c+dc[d];
-                if(r>=0 && r<grid.length && c>=0 && c<grid[0].length && grid[r][c]==1){
-                    q.add(new Pair(r,c,pair.t+1));
-                    maxTime=pair.t+1;
-                    grid[r][c]=2;
+        int dr[]={-1,1,0,0};
+        int dc[]={0,0,-1,1};
+        while(!q.isEmpty()){
+            Triplet t=q.remove();
+            for(int i=0; i<dr.length; i++){
+                int row=t.row+dr[i];
+                int col=t.col+dc[i];
+                if(row>=0 && row<grid.length && col>=0 && col<grid[0].length && grid[row][col]==1){
+                    q.add(new Triplet(row,col,t.time+1));
+                    maxTime=t.time+1;
+                    grid[row][col]=2;
                     fresh--;
                 }
             }
         }
-        if(fresh>0) return -1;
-        else return maxTime;
+        if(fresh>0){
+            return -1;
+        }
+        else{
+            return maxTime;
+        }
     }
 }
