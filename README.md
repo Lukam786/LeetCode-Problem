@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Lukam786/LeetCode-Problem/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Lukam786/LeetCode-Problem/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Lukam786/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Lukam786/LeetCode-Problem/tree/master/0075-sort-colors) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/Lukam786/LeetCode-Problem/tree/master/0068-text-justification) |
 | [0566-reshape-the-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/Lukam786/LeetCode-Problem/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Lukam786/LeetCode-Problem/tree/master/0844-backspace-string-compare) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Lukam786/LeetCode-Problem/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Lukam786/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Lukam786/LeetCode-Problem/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/Lukam786/LeetCode-Problem/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Lukam786/LeetCode-Problem/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Lukam786/LeetCode-Problem/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Lukam786/LeetCode-Problem/tree/master/0076-minimum-window-substring) |
