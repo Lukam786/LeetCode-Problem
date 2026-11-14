@@ -1,72 +1,48 @@
 class Solution {
-
-    int[] parent;
-    int[] rank;
-
-    public int makeConnected(int n, int[][] connections) {
-
-        // Not enough cables
-        if (connections.length < n - 1) {
-            return -1;
+    int parent[];
+    int size[];
+      public int findParent(int n){
+        if(n==parent[n]){
+            return n;
         }
-
-        parent = new int[n];
-        rank = new int[n];
-
-        // Initialize DSU
-        for (int i = 0; i < n; i++) {
-            parent[i] = i;
-            rank[i] = 0;
-        }
-
-        int components = n;
-
-        // Process all connections
-        for (int[] connection : connections) {
-
-            int u = connection[0];
-            int v = connection[1];
-
-            if (union(u, v)) {
-                components--;
-            }
-        }
-
-        // Required operations = components - 1
-        return components - 1;
-    }
-
-    // Find with Path Compression
-    public int find(int x) {
-
-        if (parent[x] != x) {
-            parent[x] = find(parent[x]);
-        }
-
-        return parent[x];
-    }
-
-    // Union by Rank
-    public boolean union(int a, int b) {
-
-        int parentA = find(a);
-        int parentB = find(b);
-
-        if (parentA == parentB) {
+        parent[n]=findParent(parent[n]);
+        return parent[n];
+      }
+      public boolean unionBySize(int nodes1, int nodes2){
+        int parent1=findParent(nodes1);
+        int parent2=findParent(nodes2);
+        if(parent1==parent2){
             return false;
         }
-
-        if (rank[parentA] < rank[parentB]) {
-            parent[parentA] = parentB;
+        if(size[parent1]>size[parent2]){
+            parent[parent2]=parent1;
+            size[parent1]+=size[parent2];
         }
-        else if (rank[parentA] > rank[parentB]) {
-            parent[parentB] = parentA;
+        else{
+            parent[parent1]=parent2;
+            size[parent2]+=size[parent1];
         }
-        else {
-            parent[parentB] = parentA;
-            rank[parentA]++;
-        }
-
         return true;
+      }
+    public int makeConnected(int n, int[][] connections) {
+        if(connections.length<n-1){
+            return -1;
+        }
+        parent=new int[n];
+        size=new int[n];
+        for(int i=0; i<n; i++){
+            parent[i]=i;
+            size[i]=1;
+        }
+        int component=n;
+        for(int i=0; i<connections.length; i++){
+            int u=connections[i][0];
+            int v=connections[i][1];
+
+            if(unionBySize(u,v)){
+                component--;
+            }
+        }
+        return component-1;
     }
 }
