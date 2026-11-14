@@ -1,55 +1,48 @@
-
 class Solution {
-
-    public int[] findRedundantConnection(int[][] edges) {
-
-        int n = edges.length;
-
-        ArrayList<Integer>[] graph = new ArrayList[n + 1];
-
-        for (int i = 0; i <= n; i++) {
-            graph[i] = new ArrayList<>();
+    int parent[];
+    int weight[];
+    public int findParent(int n){
+        if(n==parent[n]){
+            return n;
         }
-
-        for (int[] edge : edges) {
-
-            int u = edge[0];
-            int v = edge[1];
-
-            boolean vis[] = new boolean[n + 1];
-
-            if (dfs(graph, u, v, vis)) {
-                return edge;
-            }
-
-            graph[u].add(v);
-            graph[v].add(u);
-        }
-
-        return new int[0];
+        parent[n]=findParent(parent[n]);
+        return parent[n];
     }
-
-    public boolean dfs(ArrayList<Integer>[] graph,
-                       int curr, int target, boolean vis[]) {
-
-        if (curr == target) {
-            return true;
+    public void unionBySize(int node1, int node2){
+        int originalParent1=findParent(node1);
+        int originalParent2=findParent(node2);
+        
+        if(originalParent1==originalParent2){
+            return;
         }
+        if(weight[originalParent1]>weight[originalParent2]){
+            parent[originalParent2]=originalParent1;
+            weight[originalParent1]+=weight[originalParent2];
+        }
+        else{
+            parent[originalParent1]=originalParent2;
+            weight[originalParent2]+=weight[originalParent1];
+        }
+    }
+    public int[] findRedundantConnection(int[][] edges) {
+        int n=edges.length;
+        parent=new int[n+1];
+        weight=new int[n+1];
+        for(int i=0 ; i<=n; i++){
+            parent[i]=i;
+            weight[i]=1;
+        }
+        for(int i=0; i<edges.length; i++){
+            int u=edges[i][0];
+            int v=edges[i][1];
 
-        vis[curr] = true;
-
-        for (int i = 0; i < graph[curr].size(); i++) {
-
-            int neighbor = graph[curr].get(i);
-
-            if (!vis[neighbor]) {
-
-                if (dfs(graph, neighbor, target, vis)) {
-                    return true;
-                }
+            int parent1=findParent(u);
+            int parent2=findParent(v);
+            if(parent1==parent2){
+                return edges[i];
             }
+            unionBySize(u,v);
         }
-
-        return false;
+        return new int[0];
     }
 }
