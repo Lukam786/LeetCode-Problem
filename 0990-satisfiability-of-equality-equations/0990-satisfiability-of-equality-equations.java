@@ -1,77 +1,70 @@
+
 class Solution {
+    int parent[];
+    int size[];
 
-    int[] parent;
-    int[] rank;
-
-    public boolean equationsPossible(String[] equations) {
-
-        parent = new int[26];
-        rank = new int[26];
-
-        // Initialize DSU
-        for (int i = 0; i < 26; i++) {
-            parent[i] = i;
-            rank[i] = 0;
+    public int findParent(int n) {
+        if(n == parent[n]) {
+            return n;
         }
 
-        // First process all equality equations
-        for (String equation : equations) {
+        parent[n] = findParent(parent[n]);
+        return parent[n];
+    }
 
-            if (equation.charAt(1) == '=') {
+    public void union(int nodes1, int nodes2) {
+        int parent1 = findParent(nodes1);
+        int parent2 = findParent(nodes2);
 
-                int a = equation.charAt(0) - 'a';
-                int b = equation.charAt(3) - 'a';
+        if(parent1 == parent2) {
+            return;
+        }
 
-                union(a, b);
+        if(size[parent1] > size[parent2]) {
+            parent[parent2] = parent1;
+            size[parent1] += size[parent2];
+        }
+        else {
+            parent[parent1] = parent2;
+            size[parent2] += size[parent1];
+        }
+    }
+
+    public boolean equationsPossible(String[] equations) {
+        parent = new int[26];
+        size = new int[26];
+
+        for(int i = 0; i < 26; i++) {
+            parent[i] = i;
+            size[i] = 1;
+        }
+
+        // First pass: ==
+        for(int i = 0; i < equations.length; i++) {
+            String str = equations[i];
+
+            if(str.charAt(1) == '=') {
+                int node1 = str.charAt(0) - 'a';
+                int node2 = str.charAt(3) - 'a';
+
+                union(node1, node2);
             }
         }
 
-        // Then process all inequality equations
-        for (String equation : equations) {
+        // Second pass: !=
+        for(int i = 0; i < equations.length; i++) {
+            String str = equations[i];
 
-            if (equation.charAt(1) == '!') {
+            if(str.charAt(1) == '!') {
+                int node1 = str.charAt(0) - 'a';
+                int node2 = str.charAt(3) - 'a';
 
-                int a = equation.charAt(0) - 'a';
-                int b = equation.charAt(3) - 'a';
-
-                if (find(a) == find(b)) {
+                if(findParent(node1) == findParent(node2)) {
                     return false;
                 }
             }
         }
 
         return true;
-    }
-
-    // Find with Path Compression
-    public int find(int x) {
-
-        if (parent[x] != x) {
-            parent[x] = find(parent[x]);
-        }
-
-        return parent[x];
-    }
-
-    // Union by Rank
-    public void union(int a, int b) {
-
-        int parentA = find(a);
-        int parentB = find(b);
-
-        if (parentA == parentB) {
-            return;
-        }
-
-        if (rank[parentA] < rank[parentB]) {
-            parent[parentA] = parentB;
-        }
-        else if (rank[parentA] > rank[parentB]) {
-            parent[parentB] = parentA;
-        }
-        else {
-            parent[parentB] = parentA;
-            rank[parentA]++;
-        }
     }
 }
