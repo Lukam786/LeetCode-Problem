@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Lukam786/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Lukam786/LeetCode-Problem/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Lukam786/LeetCode-Problem/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0227-basic-calculator-ii) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Lukam786/LeetCode-Problem/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Lukam786/LeetCode-Problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Lukam786/LeetCode-Problem/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -963,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Lukam786/LeetCode-Problem/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Lukam786/LeetCode-Problem/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Lukam786/LeetCode-Problem/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/Lukam786/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Lukam786/LeetCode-Problem/tree/master/0295-find-median-from-data-stream) |
 | [0341-flatten-nested-list-iterator](https://github.com/Lukam786/LeetCode-Problem/tree/master/0341-flatten-nested-list-iterator) |
@@ -1215,6 +1218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Lukam786/LeetCode-Problem/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Lukam786/LeetCode-Problem/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Quickselect
 |  |
 | ------- |
