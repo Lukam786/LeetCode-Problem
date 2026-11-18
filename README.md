@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Lukam786/LeetCode-Problem/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/Lukam786/LeetCode-Problem/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Lukam786/LeetCode-Problem/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Lukam786/LeetCode-Problem/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Lukam786/LeetCode-Problem/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Lukam786/LeetCode-Problem/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Lukam786/LeetCode-Problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Lukam786/LeetCode-Problem/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Lukam786/LeetCode-Problem/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Lukam786/LeetCode-Problem/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Lukam786/LeetCode-Problem/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Lukam786/LeetCode-Problem/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Lukam786/LeetCode-Problem/tree/master/0695-max-area-of-island) |
@@ -855,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Lukam786/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [0341-flatten-nested-list-iterator](https://github.com/Lukam786/LeetCode-Problem/tree/master/0341-flatten-nested-list-iterator) |
+| [0399-evaluate-division](https://github.com/Lukam786/LeetCode-Problem/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lukam786/LeetCode-Problem/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1083,6 +1087,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Lukam786/LeetCode-Problem/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Lukam786/LeetCode-Problem/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Lukam786/LeetCode-Problem/tree/master/0399-evaluate-division) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Lukam786/LeetCode-Problem/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Lukam786/LeetCode-Problem/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/Lukam786/LeetCode-Problem/tree/master/0547-number-of-provinces) |
@@ -1264,6 +1269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Lukam786/LeetCode-Problem/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Lukam786/LeetCode-Problem/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Lukam786/LeetCode-Problem/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Lukam786/LeetCode-Problem/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Lukam786/LeetCode-Problem/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Lukam786/LeetCode-Problem/tree/master/0743-network-delay-time) |
@@ -1313,6 +1319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Lukam786/LeetCode-Problem/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Lukam786/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lukam786/LeetCode-Problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Lukam786/LeetCode-Problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1335,10 +1342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Lukam786/LeetCode-Problem/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Lukam786/LeetCode-Problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Floyd–Warshall Algorithm
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Lukam786/LeetCode-Problem/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Lukam786/LeetCode-Problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Minimum Spanning Tree
 |  |
