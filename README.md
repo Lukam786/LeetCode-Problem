@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Lukam786/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Lukam786/LeetCode-Problem/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Lukam786/LeetCode-Problem/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0525-contiguous-array) |
@@ -601,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lukam786/LeetCode-Problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Lukam786/LeetCode-Problem/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Lukam786/LeetCode-Problem/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Lukam786/LeetCode-Problem/tree/master/0506-relative-ranks) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lukam786/LeetCode-Problem/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Lukam786/LeetCode-Problem/tree/master/0721-accounts-merge) |
@@ -702,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lukam786/LeetCode-Problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Lukam786/LeetCode-Problem/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Lukam786/LeetCode-Problem/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lukam786/LeetCode-Problem/tree/master/0646-maximum-length-of-pair-chain) |
 | [0763-partition-labels](https://github.com/Lukam786/LeetCode-Problem/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/Lukam786/LeetCode-Problem/tree/master/0860-lemonade-change) |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Lukam786/LeetCode-Problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Lukam786/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Lukam786/LeetCode-Problem/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/Lukam786/LeetCode-Problem/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Lukam786/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Lukam786/LeetCode-Problem/tree/master/0743-network-delay-time) |
