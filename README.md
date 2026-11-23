@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Lukam786/LeetCode-Problem/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3219-minimum-cost-for-cutting-cake-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/3219-minimum-cost-for-cutting-cake-ii) |
+| [3840-house-robber-v](https://github.com/Lukam786/LeetCode-Problem/tree/master/3840-house-robber-v) |
 ## Matrix
 |  |
 | ------- |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Lukam786/LeetCode-Problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lukam786/LeetCode-Problem/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/3218-minimum-cost-for-cutting-cake-i) |
+| [3840-house-robber-v](https://github.com/Lukam786/LeetCode-Problem/tree/master/3840-house-robber-v) |
 ## Stack
 |  |
 | ------- |
