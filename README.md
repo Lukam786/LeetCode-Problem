@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Lukam786/LeetCode-Problem/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Lukam786/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Lukam786/LeetCode-Problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Lukam786/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Lukam786/LeetCode-Problem/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lukam786/LeetCode-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [1773-count-items-matching-a-rule](https://github.com/Lukam786/LeetCode-Problem/tree/master/1773-count-items-matching-a-rule) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Lukam786/LeetCode-Problem/tree/master/0997-find-the-town-judge) |
 | [1202-smallest-string-with-swaps](https://github.com/Lukam786/LeetCode-Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Lukam786/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Lukam786/LeetCode-Problem/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Lukam786/LeetCode-Problem/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/Lukam786/LeetCode-Problem/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Lukam786/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Lukam786/LeetCode-Problem/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1768-merge-strings-alternately](https://github.com/Lukam786/LeetCode-Problem/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Lukam786/LeetCode-Problem/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Lukam786/LeetCode-Problem/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Lukam786/LeetCode-Problem/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1710-maximum-units-on-a-truck](https://github.com/Lukam786/LeetCode-Problem/tree/master/1710-maximum-units-on-a-truck) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/1877-minimize-maximum-pair-sum-in-array) |
