@@ -1,19 +1,15 @@
 class Solution {
-    public int climbStairs(int n) {
-
-        if (n == 1 || n == 2) {
+    public int dp(int arr[], int n){
+        if(n==1|| n==2){
             return n;
         }
-
-        int prev2 = 1;
-        int prev1 = 2;
-
-        for (int i = 3; i <= n; i++) {
-            int current = prev1 + prev2;
-            prev2 = prev1;
-            prev1 = current;
+        if(arr[n]!=0){
+            return arr[n];
         }
-
-        return prev1;
+        return arr[n] = dp(arr, n-1) + dp(arr, n-2);
+    }
+    public int climbStairs(int n) {
+        int arr[]=new int[n+1];
+        return dp(arr, n);
     }
 }
