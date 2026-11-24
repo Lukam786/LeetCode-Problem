@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Lukam786/LeetCode-Problem/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Lukam786/LeetCode-Problem/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lukam786/LeetCode-Problem/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1514-path-with-maximum-probability](https://github.com/Lukam786/LeetCode-Problem/tree/master/1514-path-with-maximum-probability) |
 | [1572-matrix-diagonal-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/1572-matrix-diagonal-sum) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Lukam786/LeetCode-Problem/tree/master/1584-min-cost-to-connect-all-points) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Lukam786/LeetCode-Problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lukam786/LeetCode-Problem/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Lukam786/LeetCode-Problem/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2560-house-robber-iv](https://github.com/Lukam786/LeetCode-Problem/tree/master/2560-house-robber-iv) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -895,6 +897,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Lukam786/LeetCode-Problem/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Lukam786/LeetCode-Problem/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Enumeration
 |  |
 | ------- |
