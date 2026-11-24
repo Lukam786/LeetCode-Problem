@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Lukam786/LeetCode-Problem/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Lukam786/LeetCode-Problem/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Lukam786/LeetCode-Problem/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Lukam786/LeetCode-Problem/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Lukam786/LeetCode-Problem/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lukam786/LeetCode-Problem/tree/master/0646-maximum-length-of-pair-chain) |
 | [0746-min-cost-climbing-stairs](https://github.com/Lukam786/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Lukam786/LeetCode-Problem/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Lukam786/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Lukam786/LeetCode-Problem/tree/master/0797-all-paths-from-source-to-target) |
 ## Memoization
 |  |
@@ -1474,6 +1477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Lukam786/LeetCode-Problem/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Lukam786/LeetCode-Problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1483,6 +1487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0494-target-sum) |
 ## Longest Common Subsequence
 |  |
 | ------- |
