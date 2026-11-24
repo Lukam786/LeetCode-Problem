@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Lukam786/LeetCode-Problem/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Lukam786/LeetCode-Problem/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Lukam786/LeetCode-Problem/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Lukam786/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0827-making-a-large-island](https://github.com/Lukam786/LeetCode-Problem/tree/master/0827-making-a-large-island) |
 | [0845-longest-mountain-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Lukam786/LeetCode-Problem/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Lukam786/LeetCode-Problem/tree/master/0646-maximum-length-of-pair-chain) |
+| [0746-min-cost-climbing-stairs](https://github.com/Lukam786/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lukam786/LeetCode-Problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Lukam786/LeetCode-Problem/tree/master/0918-maximum-sum-circular-subarray) |
