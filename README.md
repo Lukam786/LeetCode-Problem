@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1004-max-consecutive-ones-iii) |
 | [1029-two-city-scheduling](https://github.com/Lukam786/LeetCode-Problem/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/Lukam786/LeetCode-Problem/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1049-last-stone-weight-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Lukam786/LeetCode-Problem/tree/master/1200-minimum-absolute-difference) |
 | [1202-smallest-string-with-swaps](https://github.com/Lukam786/LeetCode-Problem/tree/master/1202-smallest-string-with-swaps) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Lukam786/LeetCode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -566,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Lukam786/LeetCode-Problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0845-longest-mountain-in-array](https://github.com/Lukam786/LeetCode-Problem/tree/master/0845-longest-mountain-in-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Lukam786/LeetCode-Problem/tree/master/0918-maximum-sum-circular-subarray) |
+| [1049-last-stone-weight-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Lukam786/LeetCode-Problem/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Lukam786/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Lukam786/LeetCode-Problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Lukam786/LeetCode-Problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1488,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Lukam786/LeetCode-Problem/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Lukam786/LeetCode-Problem/tree/master/1049-last-stone-weight-ii) |
 ## Longest Common Subsequence
 |  |
 | ------- |
