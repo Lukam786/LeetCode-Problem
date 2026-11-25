@@ -1,22 +1,26 @@
 class Solution {
 
-    public int rec(int i, int[] nums, int n, int[] dp) {
+    int rec(int i, int nums[], int n, int dp[]) {
 
-        if (i >= n) {
+        if (i >= n) {   // society ends
             return 0;
         }
 
+        // if the overlapping subproblem is already calculated,
+        // don't calculate again, just return it
         if (dp[i] != -1) {
             return dp[i];
         }
 
-        int take = nums[i] + rec(i + 2, nums, n, dp);
+        int takeMoney = nums[i] + rec(i + 2, nums, n, dp);
 
-        int notTake = rec(i + 1, nums, n, dp);
+        int dontTake = rec(i + 1, nums, n, dp);
 
-        dp[i] = Math.max(take, notTake);
+        int mx = Math.max(takeMoney, dontTake);
 
-        return dp[i];
+        dp[i] = mx;
+
+        return mx;
     }
 
     public int rob(int[] nums) {
@@ -35,10 +39,9 @@ class Solution {
             dp2[i] = -1;
         }
 
-        int takeFirst = nums[0] + rec(2, nums, n - 1, dp1);
-
-        int notTakeFirst = rec(1, nums, n, dp2);
-
-        return Math.max(takeFirst, notTakeFirst);
+        return Math.max(
+                nums[0] + rec(2, nums, n - 1, dp1),
+                rec(1, nums, n, dp2)
+        );
     }
 }
