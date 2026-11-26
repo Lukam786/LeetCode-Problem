@@ -1,18 +1,3 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 
 class Solution {
 
@@ -26,10 +11,8 @@ class Solution {
             return dp.get(curr);
         }
 
-        // Not Take: Current node ko rob nahi karenge
         int notTake = rec(curr.left, dp) + rec(curr.right, dp);
 
-        // Take: Current node ko rob karenge
         int take = curr.val;
 
         if (curr.left != null) {
@@ -42,7 +25,7 @@ class Solution {
             take += rec(curr.right.right, dp);
         }
 
-        int ans = Math.max(take, notTake);
+        int ans = Math.max(notTake, take);
 
         dp.put(curr, ans);
 
